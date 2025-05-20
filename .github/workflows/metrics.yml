@@ -13,11 +13,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/create-github-app-token@v1
-        id: create-token
-        with:
-          app-id: ${{ vars.APP_ID }}
-          private-key: ${{ secrets.PRIVATE_KEY }}
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ steps.create-token.outputs.token }}
+          token: ${{ secrets.PAT }}
