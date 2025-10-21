@@ -2,6 +2,10 @@
 
 ![Metrics](./github-metrics.svg)
 
+## Blog?
+
+- [Implementing the Zig-Zag Merge Join Algorithm on top of IndexedDB API](./blog/2025-10-19-zig-zag-1.md)
+
 ## Fav tech stack
 
 | Layer      | Tech                 |
