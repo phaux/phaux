@@ -2,17 +2,28 @@
 
 ![Metrics](./github-metrics.svg)
 
-<!--
-**phaux/phaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fav tech stack
 
-Here are some ideas to get you started:
+| Layer      | Tech                 |
+| ---------- | -------------------- |
+| Runtime    | Deno, Bun, Node      |
+| Back-end   | tRPC, oRPC, Hono     |
+| Full-stack | React Router, Fresh  |
+| Front-End  | React, Preact, Lit   |
+| CSS        | Vanilla, CSS modules |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools/libs wish-list
+
+Things I would make if I had infinite time.
+
+- [ ] Type checker for CSS and HTML (class names, custom properties, etc)
+- [ ] IndexedDB to backend DB sync engine (with auth and security rules)
+
+## FAQ
+
+<dl>
+<dt>Why do you use different username on every website?</dt>
+<dd>I can't decide which one to use.</dd>
+<dt>Why is your name Nikita but pronouns she/her?</dt>
+<dd>I'm non-binary.</dd>
+</dl>
