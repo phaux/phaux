@@ -3,7 +3,7 @@ name: Generate metrics
 on:
   workflow_dispatch:
   schedule: 
-    - cron: "20 4 * * */2"
+    - cron: "20 4 * * 1"
 
 jobs:
   gen-metrics:
