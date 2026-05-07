@@ -6,11 +6,12 @@
 
 | Layer      | Tech                 |
 | ---------- | -------------------- |
+| Low-level  | Rust                 |
 | Runtime    | Deno, Bun, Node      |
-| Back-end   | tRPC, oRPC, Hono     |
-| Full-stack | React Router, Fresh  |
-| Front-End  | React, Preact, Lit   |
-| CSS        | Vanilla, CSS modules |
+| Back-end   | tRPC, oRPC, Hono, Elysia |
+| Full-stack | TanStack Start, React Router, Fresh |
+| Front-End  | React, Preact, Remix, Lit |
+| Styles     | Vanilla CSS, CSS modules, Tailwind |
 
 ## Tools/libs wish-list
 
